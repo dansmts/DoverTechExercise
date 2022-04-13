@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DoverTest\DoverTechExercise.csproj" />
+    <ProjectReference Include="..\DoverTechExercise\DoverTechExercise.csproj" />
   </ItemGroup>
 
 </Project>

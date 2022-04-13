@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoverTechExercise", "DoverTest\DoverTechExercise.csproj", "{7A3C1902-5FEE-4305-B268-5D532A34E843}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoverTechExercise", "DoverTechExercise\DoverTechExercise.csproj", "{7A3C1902-5FEE-4305-B268-5D532A34E843}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoverTechExercise.Tests", "DoverTechExercise.Tests\DoverTechExercise.Tests.csproj", "{EBFA397A-F746-41A8-8007-D8D13131F636}"
 EndProject
